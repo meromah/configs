@@ -8,7 +8,7 @@ gui:
     optionsTextColor:
       - '#89b4fa'
     selectedLineBgColor:
-      - '#313244'
+      - '#2d442e'
     cherryPickedCommitBgColor:
       - '#45475a'
     cherryPickedCommitFgColor:
